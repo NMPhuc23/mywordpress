@@ -9,35 +9,15 @@
 
 <channel>
 	<title>WordPress</title>
-	<atom:link href="http://localhost/WordPress/feed/?simply_static_page=55" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/WordPress/feed/?simply_static_page=884" rel="self" type="application/rss+xml" />
 	<link>https://nmphuc23.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Apr 2023 08:09:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 May 2023 14:37:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
-	<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://nmphuc23.github.io/mywordpress/2023/04/17/chao-moi-nguoi/</link>
-					<comments>https://nmphuc23.github.io/mywordpress/2023/04/17/chao-moi-nguoi/#comments</comments>
-		
-		<dc:creator><![CDATA[YoNN]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 08:09:07 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://nmphuc23.github.io/mywordpress/?p=1</guid>
-
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
-										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nmphuc23.github.io/mywordpress/2023/04/17/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+</channel>
 </rss>
