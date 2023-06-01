@@ -9,10 +9,10 @@
 
 <channel>
 	<title>WordPress</title>
-	<atom:link href="http://localhost/WordPress/feed/?simply_static_page=1377" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/WordPress/feed/?simply_static_page=1876" rel="self" type="application/rss+xml" />
 	<link>https://nmphuc23.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Sun, 28 May 2023 14:44:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jun 2023 13:54:45 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
