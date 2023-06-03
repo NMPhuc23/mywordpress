@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Bình luận cho WordPress	</title>
-	<atom:link href="http://localhost/WordPress/comments/feed/?simply_static_page=4795" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/WordPress/comments/feed/?simply_static_page=5390" rel="self" type="application/rss+xml" />
 	<link>https://nmphuc23.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Sat, 03 Jun 2023 01:43:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jun 2023 11:22:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
